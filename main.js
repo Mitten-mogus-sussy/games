@@ -148,7 +148,7 @@ xhr.send();
   <li><a href="/changelog.html" target="_top">Changelog</a></li>
   <li><a href="/changelog.html" target="_top">Settings</a></li>
 </ul>
-</div>`;
+</div>
 document.body.prepend($header);
 
 
